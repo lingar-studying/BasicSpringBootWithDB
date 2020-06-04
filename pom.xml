@@ -41,6 +41,8 @@
 		</dependency>
 		-->
 		
+		<!--  removing tests  -->
+	
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -52,6 +54,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+	
 	</dependencies>
 
 	<build>
