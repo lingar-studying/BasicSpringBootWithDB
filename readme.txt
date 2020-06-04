@@ -2,7 +2,7 @@ urls:
 See here "test the application"
 https://spring.io/guides/gs/accessing-data-rest/
 
-
+Cool u can do all with post man too, and delete things (but maybe it cause also security breaks 
 
 http://localhost:8080/people
 
