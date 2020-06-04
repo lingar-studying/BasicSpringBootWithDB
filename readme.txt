@@ -6,6 +6,11 @@ Cool u can do all with post man too, and delete things (but maybe it cause also 
 
 http://localhost:8080/people
 
+serach
+
+http://localhost:8080/people/search/findByLastName?name=mash
+
+
 
 To connect he cURL 
 
@@ -20,3 +25,5 @@ Create new :
 
  curl -i -H "Content-Type:application/json" -d '{"firstName": "Frodo", "lastName": "Baggins"}' http://localhost:8080/people
 
+
+http://localhost:8080/people/search/findByLastName?name=mash
